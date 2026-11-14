@@ -6,10 +6,10 @@ Originally created because I thought it would be useful to have both tools ready
 
 ## Features
 
-- <img src="https://api.iconify.design/ph/rocket-launch.svg" width="18" height="18" /> **Quick launch** — open both applications at once.
-- <img src="https://api.iconify.design/ph/github-logo.svg" width="18" height="18" /> **GitHub Copilot** — your AI coding companion.
-- <img src="https://api.iconify.design/ph/android-logo.svg" width="18" height="18" /> **Android Studio** — your Android development environment.
-- <img src="https://api.iconify.design/ph/feather.svg" width="18" height="18" /> **Lightweight** — simple utility without unnecessary complexity.
+- <img src="https://api.iconify.design/ph/rocket-launch.svg?color=%23FFFFFF" width="18" height="18" /> **Quick launch** — open both applications at once.
+- <img src="https://api.iconify.design/ph/github-logo.svg?color=%23FFFFFF" width="18" height="18" /> **GitHub Copilot** — your AI coding companion.
+- <img src="https://api.iconify.design/ph/android-logo.svg?color=%23FFFFFF" width="18" height="18" /> **Android Studio** — your Android development environment.
+- <img src="https://api.iconify.design/ph/feather.svg?color=%23FFFFFF" width="18" height="18" /> **Lightweight** — simple utility without unnecessary complexity.
 
 ## Requirements
 
