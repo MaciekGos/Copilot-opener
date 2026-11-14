@@ -1,6 +1,12 @@
-# Android Vibe Coding Launcher
+ <p align="center">
+  <img src="logo.svg" alt="Android Vibe Coding Launcher" width="160">
+</p>
 
-A lightweight Windows utility that launches **GitHub Copilot** and **Android Studio** with a single click.
+<h1 align="center">Copilot Opener</h1>
+
+<p align="center">
+  A lightweight Windows utility that launches <strong>GitHub Copilot</strong> and <strong>Android Studio</strong> with a single click.
+</p>
 
 Originally created because I thought it would be useful to have both tools ready when vibe coding Android applications.
 
