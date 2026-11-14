@@ -1,0 +1,172 @@
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: python.exe -m pip install --upgrade pip
+icon.ico gotowe
+146 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.7
+146 INFO: Python: 3.11.9
+157 INFO: Platform: Windows-10-10.0.26300-SP0
+157 INFO: Python environment: C:\Users\macie\AppData\Local\Programs\Python\Python311
+158 INFO: wrote C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\CopilotOpener.spec
+162 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\macie\\Downloads\\CopilotOpener (3)\\CopilotOpener',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\python311.zip',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\DLLs',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\lib',
+ 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pythonwin',
+ 'C:\\Users\\macie\\Downloads\\CopilotOpener (3)\\CopilotOpener']
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+594 INFO: Appending 'datas' from .spec
+594 INFO: checking Analysis
+595 INFO: Building Analysis because Analysis-00.toc is non existent
+595 INFO: Looking for Python shared library...
+595 INFO: Using Python shared library: C:\Users\macie\AppData\Local\Programs\Python\Python311\python311.dll
+595 INFO: Running Analysis Analysis-00.toc
+595 INFO: Target bytecode optimization level: 0
+595 INFO: Initializing module dependency graph...
+596 INFO: Initializing module graph hook caches...
+611 INFO: Analyzing modules for base_library.zip ...
+1564 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+1641 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+2821 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+2899 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+4043 INFO: Caching module dependency graph...
+4079 INFO: Analyzing C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\copilot_opener.pyw
+4107 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+4135 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+4136 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+4402 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+4415 INFO: Processing standard module hook 'hook-pystray.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+4715 INFO: Processing pre-safe-import-module hook 'hook-six.moves.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+4778 INFO: Processing pre-safe-import-module hook 'hook-gi.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+4793 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+4900 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+5196 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+5470 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+5472 INFO: SetuptoolsInfo: initializing cached setuptools info...
+6226 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+6380 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+6935 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+7258 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+7349 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+7682 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+7718 INFO: Processing standard module hook 'hook-psutil.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+8744 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+9017 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+9150 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+9318 INFO: Processing module hooks (post-graph stage)...
+9531 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+9588 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'
+9598 INFO: Performing binary vs. data reclassification (926 entries)
+9682 INFO: Looking for ctypes DLLs
+9751 INFO: Analyzing run-time hooks ...
+9753 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+9753 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+9757 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+9758 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+9780 INFO: Creating base_library.zip...
+9795 INFO: Looking for dynamic libraries
+10261 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\macie\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy.libs']
+10261 INFO: Extra DLL search directories (PATH): []
+10958 INFO: Warnings written to C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\build\CopilotOpener\warn-CopilotOpener.txt
+11004 INFO: Graph cross-reference written to C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\build\CopilotOpener\xref-CopilotOpener.html
+11038 INFO: checking PYZ
+11039 INFO: Building PYZ because PYZ-00.toc is non existent
+11039 INFO: Building PYZ (ZlibArchive) C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\build\CopilotOpener\PYZ-00.pyz
+11472 INFO: Building PYZ (ZlibArchive) C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\build\CopilotOpener\PYZ-00.pyz completed successfully.
+11493 INFO: checking PKG
+11493 INFO: Building PKG because PKG-00.toc is non existent
+11493 INFO: Building PKG (CArchive) CopilotOpener.pkg
+17800 INFO: Building PKG (CArchive) CopilotOpener.pkg completed successfully.
+17816 INFO: Bootloader C:\Users\macie\AppData\Local\Programs\Python\Python311\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+17816 INFO: checking EXE
+17816 INFO: Building EXE because EXE-00.toc is non existent
+17816 INFO: Building EXE from EXE-00.toc
+17816 INFO: Copying bootloader EXE to C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\dist\CopilotOpener.exe
+17855 INFO: Copying icon to EXE
+17886 INFO: Copying 0 resources to EXE
+17886 INFO: Embedding manifest in EXE
+17917 INFO: Appending PKG archive to EXE
+17982 INFO: Fixing EXE headers
+18247 INFO: Building EXE from EXE-00.toc completed successfully.
+18264 INFO: Build complete! The results are available in: C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\dist
+Inno Setup 7 Command-Line Compiler
+Copyright (C) 1997-2026 Jordan Russell. All rights reserved.
+Portions Copyright (C) 2000-2026 Martijn Laan. All rights reserved.
+Portions Copyright (C) 2001-2004 Alex Yackimoff. All rights reserved.
+https://www.innosetup.com
+
+Compiler engine version: Inno Setup 7.1.0
+Non-commercial use only
+
+Preprocessing
+   Reading file: C:\Users\macie\AppData\Local\Programs\Inno Setup 7\ISPPBuiltins.iss
+Parsing [Setup] section, line 8
+Parsing [Setup] section, line 9
+Parsing [Setup] section, line 10
+Parsing [Setup] section, line 11
+Parsing [Setup] section, line 12
+Parsing [Setup] section, line 13
+Parsing [Setup] section, line 14
+Parsing [Setup] section, line 15
+Parsing [Setup] section, line 16
+Parsing [Setup] section, line 17
+Parsing [Setup] section, line 18
+Parsing [Setup] section, line 19
+Parsing [Setup] section, line 20
+Parsing [Setup] section, line 21
+Parsing [Setup] section, line 22
+Parsing [Setup] section, line 23
+Parsing [Setup] section, line 24
+Parsing [Setup] section, line 25
+Parsing [Setup] section, line 26
+Parsing [Setup] section, line 27
+Creating output directory: C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\installer_output
+Reading file (WizardImageFile)
+Reading file (WizardSmallImageFile)
+Preparing Setup program executable
+   Verification successful
+   Updating icons (Setup.e32)
+   Updating version info (Setup.e32)
+Determining language code pages
+Parsing [Languages] section, line 31
+   Reading file: C:\Users\macie\AppData\Local\Programs\Inno Setup 7\Languages\Polish.isl
+Parsing [Languages] section, line 33
+   Reading file: C:\Users\macie\AppData\Local\Programs\Inno Setup 7\Default.isl
+   Messages in script file
+Reading default messages from Default.isl
+Parsing [Languages] section, line 31
+   Reading file: C:\Users\macie\AppData\Local\Programs\Inno Setup 7\Languages\Polish.isl
+Parsing [Languages] section, line 33
+   Reading file: C:\Users\macie\AppData\Local\Programs\Inno Setup 7\Default.isl
+Parsing [LangOptions], [Messages], and [CustomMessages] sections
+   Messages in script file
+Reading [Code] section
+Parsing [Tasks] section, line 50
+Parsing [Tasks] section, line 51
+Parsing [Icons] section, line 59
+Parsing [Icons] section, line 60
+Parsing [Registry] section, line 63
+Parsing [Run] section, line 66
+Parsing [UninstallRun] section, line 69
+Parsing [Files] section, line 54
+Parsing [Files] section, line 55
+Parsing [Files] section, line 56
+Compiling [Code] section
+Creating setup files
+   Verification successful
+   Updating icons (Setup.exe)
+   Compressing: \\?\C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\dist\CopilotOpener.exe
+   Compressing: \\?\C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\logo.svg
+   Compressing: \\?\C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\icon.ico
+   Compressing Setup program executable
+   Updating version info (Setup.exe)
+   Updating manifest (Setup.exe)
+
+
+Successful compile (3,688 sec). Resulting Setup program filename is:
+C:\Users\macie\Downloads\CopilotOpener (3)\CopilotOpener\installer_output\CopilotOpener_Setup.exe

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6e40c9"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <!-- okno z "otwarciem" w prawym gornym rogu -->
+  <path d="M 120 88 H 80 a16 16 0 0 0 -16 16 V 176 a16 16 0 0 0 16 16 H 152 a16 16 0 0 0 16 -16 V 136"
+        fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- strzalka "otworz" -->
+  <path d="M 112 144 L 184 72 M 142 72 H 184 V 114"
+        fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- zielona kropka (Android) -->
+  <circle cx="196" cy="196" r="22" fill="#3ddc84" stroke="#fff" stroke-width="6"/>
+</svg>
